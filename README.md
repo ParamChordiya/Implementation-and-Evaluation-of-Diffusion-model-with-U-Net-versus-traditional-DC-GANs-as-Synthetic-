@@ -1,4 +1,4 @@
-# ECE 176 Project: Understanding Implication of Using U-Net as Discriminator in DC-GANs
+# ECE 285 Project: Implementation and Evaluation of Diffusion model with U-Net versus traditional DC-GANs as Synthetic Image Generators
 
 This repository contains the project work done for ECE 285 - Introduction to Visual Learning at UCSD ECE Department. The project focuses on understanding how different synthetic image generation methods such as the Diffusion model and GANs work at their roots and how efficient they are by implementing them from scratch. We also try to improve these models rigorously by hyper parameter tuning as well as implementing a U-NET architecture for denoising in the Diffusion model.
 
